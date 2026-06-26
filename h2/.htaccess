@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^room-booking/?$ room-booking.php [L,QSA]
